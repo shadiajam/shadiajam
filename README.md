@@ -13,3 +13,10 @@
 <a href="https://stackoverflow.com/users/2549939/shadi-ajam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
 <a href="https://www.facebook.com/shadi.ajam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
 
+
+<h3 align="left">:octocat: Statistics:</h3>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadiajam&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shadiajam&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shadiajam&theme=github_dark)
