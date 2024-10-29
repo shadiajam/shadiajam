@@ -20,3 +20,5 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shadiajam&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shadiajam&theme=github_dark)
+
+![](https://komarev.com/ghpvc/?username=shadiajam&style=for-the-badge)
